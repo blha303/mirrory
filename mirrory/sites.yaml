@@ -1,0 +1,21 @@
+pomf:
+# maintained by steven
+# requirements to be added to this list:
+# - must have a CONSISTENT API, i.e /upload.php taking files with the name "files[]" and returning {"success": true, "files": [{"name": "example.png", "url": "aaaaaa.png", "size": 0, "deletion": "token"}]}
+# - including the domain in the returned url is optional but highly recommended. alternate cdn domains can be added on the same line after a space
+- pomf.cat a.pomf.cat
+- mixtape.moe
+- safe.moe
+- pomfe.co a.pomfe.co
+- comfy.moe
+- p.fuwafuwa.moe
+- doko.moe a.doko.moe
+- yiff.moe
+- g.zxq.co y.zxq.co
+- filebox.moe
+- null.vg
+- up.asis.io dl.asis.io
+- cocaine.ninja
+- pomf.pyonpyon.moe
+- sugoi.vidyagam.es
+- vidga.me
