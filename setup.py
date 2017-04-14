@@ -8,7 +8,7 @@ setup(
         "console_scripts": ['mirrory = mirrory.mirrory:main']
         },
     version = "0.1.0",
-    description = "",
+    description = "Mirrors a given file to a bunch of free hosts. Work in progress",
     author = "Steven Smith",
     author_email = "stevensmith.ome@gmail.com",
     license = "MIT",
